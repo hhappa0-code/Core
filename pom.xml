@@ -35,4 +35,12 @@
             <version>0.10.2</version>
         </dependency>
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/hhappa0-code/Core</url>
+        </repository>
+    </distributionManagement>
 </project>
